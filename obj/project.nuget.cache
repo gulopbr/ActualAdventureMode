@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HVT9PRa3D//jmlAcWKhjJqC/bfU1nWr8WGSJzFcabPDntPS1BubfvFLEuKdyV7qQ2UCL7WCykpAhw9rdcydTkA==",
+  "success": true,
+  "projectFilePath": "E:\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ActualAdventureMode\\ActualAdventureMode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gulop\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
