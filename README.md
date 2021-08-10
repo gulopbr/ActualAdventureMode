@@ -32,7 +32,7 @@ After Stage 1 is released, the mod will slowly be updated with features of Stage
 
 - [ ] Alternative starter spawn in custom overworld dungeon 🥊
 - [ ] Vast majority of game items purchasable through NPCs
-- [ ] Boss progression is more tightly coordinated. The guide will provide the order of challenges, and give you keys to unlock the dungeon of boss arenas and dungeons
+- [ ] Boss progression is more tightly coordinated. The guide will provide the order of challenges, and give you keys to unlock the dungeon of boss arenas and regular dungeons
 - [ ] New, state of the art, indestructible dungeons and boss arenas 🧱
 - [ ] Quests
   - [ ] Quest NPC will start smoking when he has quests available
