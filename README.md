@@ -18,7 +18,7 @@ Instead...fight through **balanced** boss fights with the most FUN weapons Terra
 Two stages to the roadmap.
 
 Achieving Stage 1, we have a very fun mod that achieves our main goal.  
-Achieving Stage 2, we have an amazing mod that adds new functional structures, content, and quests.
+Achieving Stage 2, we have an amazing mod that adds new functional structures, content, and quests.  
 After Stage 1 is released, the mod will slowly be updated with features of Stage 2.  
 
 ### Stage 1 (Initial Release)
