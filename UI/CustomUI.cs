@@ -9,14 +9,12 @@ namespace ActualAdventureMode.UI {
 
     internal class CustomUI : UIState
     {
-        public static bool visible = true;
         protected override void DrawSelf(SpriteBatch spriteBatch)
         {
             base.DrawSelf(spriteBatch);
 
+            // Allows mod to hide crafting menu, thanks to this recent update https://github.com/tModLoader/tModLoader/issues/476
             Main.HidePlayerCraftingMenu = true;
-        
-        
         }
     }
 }
